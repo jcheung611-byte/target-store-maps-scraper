@@ -1,0 +1,65 @@
+{
+  "stores": [
+    {
+      "id": "T-1234",
+      "name": "Target Minneapolis Downtown",
+      "address": "900 Nicollet Mall, Minneapolis, MN 55403",
+      "coordinates": {
+        "latitude": 44.9778,
+        "longitude": -93.2650
+      },
+      "notes": "Downtown location, multi-level store"
+    },
+    {
+      "id": "T-0002",
+      "name": "Target Brooklyn Park",
+      "address": "7200 Brooklyn Blvd, Brooklyn Park, MN 55429",
+      "coordinates": {
+        "latitude": 45.1089,
+        "longitude": -93.3566
+      },
+      "notes": "Standard suburban store"
+    },
+    {
+      "id": "T-2551",
+      "name": "Target Brooklyn Center",
+      "address": "1200 Shingle Creek Crossing, Brooklyn Center, MN 55430",
+      "coordinates": {
+        "latitude": 45.0690,
+        "longitude": -93.3267
+      },
+      "notes": "Medium-sized location"
+    },
+    {
+      "id": "T-1354",
+      "name": "Target Ridgedale",
+      "address": "12400 Wayzata Blvd, Minnetonka, MN 55305",
+      "coordinates": {
+        "latitude": 44.9698,
+        "longitude": -93.4288
+      },
+      "notes": "Mall-adjacent location"
+    },
+    {
+      "id": "T-2048",
+      "name": "Target Roseville",
+      "address": "2080 Snelling Ave N, Roseville, MN 55113",
+      "coordinates": {
+        "latitude": 45.0158,
+        "longitude": -93.1672
+      },
+      "notes": "High-traffic suburban store"
+    }
+  ],
+  "notes": {
+    "usage": "These are sample Target stores in the Twin Cities area for testing GPS spoofing",
+    "store_id_format": "Store IDs may not be accurate - will be discovered from API",
+    "coordinates": "Use these lat/lng values for GPS spoofing in emulator"
+  }
+}
+
+
+
+
+
+

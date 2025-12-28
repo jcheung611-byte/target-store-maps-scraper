@@ -1,0 +1,20 @@
+# Core dependencies
+requests>=2.31.0
+urllib3>=2.0.0
+
+# Data processing
+pandas>=2.0.0
+
+# Android automation (optional - only needed for SSL pinning bypass)
+# frida-tools>=12.2.0
+# objection>=1.11.0
+
+# Utilities
+python-dotenv>=1.0.0
+pyyaml>=6.0
+click>=8.1.0
+rich>=13.0.0  # For pretty terminal output
+
+# Development
+pytest>=7.4.0
+
